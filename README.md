@@ -1,8 +1,26 @@
-# React + Vite
+# React to PDF & Image Converter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project demonstrates how to efficiently convert React components into PDF and image formats. It leverages the power of `html2canvas` and `jspdf` libraries to achieve this functionality.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Convert React Components to PDF:** Seamlessly transform your components into high-quality PDF documents.
+- **Convert React Components to Images:** Generate high-resolution images (e.g., PNG) from your components.
+- **Download Generated Files:** Easily download the converted PDF and image files for convenient access.
+- **Modern Styling:** Utilizes Tailwind CSS for rapid and efficient styling of the application.
+
+## Technologies Used
+
+- **React:** A JavaScript library for building user interfaces.
+- **html2canvas:** A JavaScript library that renders all or part of an HTML page and its JavaScript rendered content to a canvas.
+- **jspdf:** A JavaScript library for generating PDFs.
+- **Tailwind CSS:** A utility-first CSS framework for rapidly building custom designs.
+
+## Getting Started
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone <https://github.com/Dru-429/Invoice-PDF-.git>
+
+
